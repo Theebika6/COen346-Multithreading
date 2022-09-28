@@ -1,1 +1,1 @@
-# COen346-Multithreading
+# Coen346-Operating System
